@@ -1,0 +1,4 @@
+Print 1:	
+22/12/2021
+20% infill
+rigged structure
