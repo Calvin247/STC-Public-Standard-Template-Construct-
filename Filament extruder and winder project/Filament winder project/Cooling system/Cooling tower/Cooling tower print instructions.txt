@@ -1,0 +1,10 @@
+cura
+low Quality 0.28 (default)
+print speed 30 (preferably with 15mm/s infill speed)
+Print with brim and small circle in the center of the column to expand brim inwards
+
+NB!	This tall print requires that the spool be adjusted so that the filament goes over the bar of the 
+	ender 3 about half way though the print, otherwise the filament will snag on the top bar of the 
+	printer
+
+	
