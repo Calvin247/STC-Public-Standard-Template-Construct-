@@ -1,0 +1,4 @@
+1cm outwards
+1cm inwards
+hole 1.3cm downwards
+filament entrance hole enlarged a bit 
